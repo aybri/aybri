@@ -10,10 +10,3 @@ AKA: The stuff I'm actually pretty proud of.
 ## Work-In-Progress Projects
 AKA: Look, I'll get to it eventually.
 - Several more Figura avatars.
-
-## Archived Stuff
-AKA: Man, what was I thinking?
-- **Stuff That Just Didn't Work Out**
-  - [A basic "game" for the TI-84+ CE. Name was originally "Inspid," which was an unintentional mispelling of "insipid." (i still liked the name)](https://github.com/aybri/ti-game)
-  - The original "ti-game" repository, now deleted so that "inspid" could have the name. An unfinished TI-84+ CE raycaster.
-  - [A basic Python server (the client doesn't work, use ](https://github.com/aybri/implant-audio)[MCJack123's austream.lua from Aukit](https://github.com/MCJack123/AUKit)[) that I quickly whipped up together for streaming microphone audio to a CC: Tweaked computer. There are better ways to do this.](https://github.com/aybri/implant-audio)
